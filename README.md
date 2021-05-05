@@ -3,3 +3,4 @@
  - usando o -S para assinar
  - adicionado o name e o email ao config --local 
  - agora colocando o git config user.email
+ - mesmo adicionando user.email ainda usa o global
