@@ -5,3 +5,4 @@
  - agora colocando o git config user.email
  - mesmo adicionando user.email ainda usa o global
  - Esqueci que meu email no c**** do github era o hotmail
+ - Como adicionei ao certificado o email hotmail, tive que remover a chave no github e adicionar novamente
